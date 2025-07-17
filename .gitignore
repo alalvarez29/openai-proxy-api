@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Logs and temp files
+*.log
+*~
+*.swp
+
+# C extensions binaries
+*.so
+*.pyd
+
+# IDE configs
+.vscode/
+.idea/
